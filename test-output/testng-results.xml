@@ -2,28 +2,28 @@
 <testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="149239" started-at="2021-01-16T08:18:37Z" finished-at="2021-01-16T08:21:06Z">
+  <suite name="Default suite" duration-ms="146905" started-at="2021-01-18T11:29:11Z" finished-at="2021-01-18T11:31:38Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="149239" started-at="2021-01-16T08:18:37Z" finished-at="2021-01-16T08:21:06Z">
+    <test name="Default test" duration-ms="146905" started-at="2021-01-18T11:29:11Z" finished-at="2021-01-18T11:31:38Z">
       <class name="org.demoo.MainClass">
-        <test-method status="PASS" signature="browser()[pri:0, instance:org.demoo.MainClass@5ccddd20]" name="browser" is-config="true" duration-ms="13148" started-at="2021-01-16T08:18:37Z" finished-at="2021-01-16T08:18:50Z">
+        <test-method status="PASS" signature="browser()[pri:0, instance:org.demoo.MainClass@5ccddd20]" name="browser" is-config="true" duration-ms="19173" started-at="2021-01-18T11:29:11Z" finished-at="2021-01-18T11:29:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browser -->
-        <test-method status="PASS" signature="sign()[pri:0, instance:org.demoo.MainClass@5ccddd20]" name="sign" duration-ms="51149" started-at="2021-01-16T08:18:50Z" finished-at="2021-01-16T08:19:41Z">
+        <test-method status="PASS" signature="sign()[pri:0, instance:org.demoo.MainClass@5ccddd20]" name="sign" duration-ms="46935" started-at="2021-01-18T11:29:30Z" finished-at="2021-01-18T11:30:17Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sign -->
-        <test-method status="PASS" signature="sign1()[pri:0, instance:org.demoo.MainClass@5ccddd20]" name="sign1" duration-ms="40407" started-at="2021-01-16T08:19:41Z" finished-at="2021-01-16T08:20:22Z">
+        <test-method status="PASS" signature="sign1()[pri:0, instance:org.demoo.MainClass@5ccddd20]" name="sign1" duration-ms="41156" started-at="2021-01-18T11:30:17Z" finished-at="2021-01-18T11:30:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sign1 -->
-        <test-method status="PASS" signature="sign3()[pri:0, instance:org.demoo.MainClass@5ccddd20]" name="sign3" duration-ms="43091" started-at="2021-01-16T08:20:22Z" finished-at="2021-01-16T08:21:05Z">
+        <test-method status="PASS" signature="sign3()[pri:0, instance:org.demoo.MainClass@5ccddd20]" name="sign3" duration-ms="38700" started-at="2021-01-18T11:30:58Z" finished-at="2021-01-18T11:31:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- sign3 -->
-        <test-method status="PASS" signature="quit()[pri:0, instance:org.demoo.MainClass@5ccddd20]" name="quit" is-config="true" duration-ms="1367" started-at="2021-01-16T08:21:05Z" finished-at="2021-01-16T08:21:06Z">
+        <test-method status="PASS" signature="quit()[pri:0, instance:org.demoo.MainClass@5ccddd20]" name="quit" is-config="true" duration-ms="883" started-at="2021-01-18T11:31:37Z" finished-at="2021-01-18T11:31:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- quit -->
